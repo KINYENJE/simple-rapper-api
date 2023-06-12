@@ -6,7 +6,7 @@ const PORT = 8000
 app.use(cors())
 
 let rappers = {
-    '21 savage': {
+    '21 savage': { 
         'age': 28,
         'birthName': 'Shéyaa Bin Abraham-Joseph',
         'birthdate': '22 October 1992', 
